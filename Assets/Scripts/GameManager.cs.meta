@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b234ef43041892e45ac5a9e9657236eb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hpTexture: {fileID: 2800000, guid: 817be901a1b5cc04dab57adf11a602bf, type: 3}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
